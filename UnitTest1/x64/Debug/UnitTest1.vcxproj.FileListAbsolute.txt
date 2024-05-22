@@ -1,0 +1,2 @@
+C:\Users\ynicp\source\repos\ucPractice\UnitTest1\x64\Debug\UnitTest1.vcxproj.AssemblyReference.cache
+C:\Users\ynicp\source\repos\ucPractice\UnitTest1\x64\Debug\UnitTest1.vcxproj.CopyComplete

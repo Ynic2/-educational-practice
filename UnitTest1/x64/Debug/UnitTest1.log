@@ -1,0 +1,7 @@
+﻿  UnitTest1.cpp
+C:\Users\ynicp\source\repos\ucPractice\ucPractice\Sorts.h(38,2): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\ynicp\source\repos\ucPractice\ucPractice\Sorts.h(60,20): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\ynicp\source\repos\ucPractice\ucPractice\Sorts.h(88,24): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\ynicp\source\repos\ucPractice\ucPractice\Sorts.h(134,36): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+     Создается библиотека C:\Users\ynicp\source\repos\ucPractice\x64\Debug\UnitTest1.lib и объект C:\Users\ynicp\source\repos\ucPractice\x64\Debug\UnitTest1.exp
+  UnitTest1.vcxproj -> C:\Users\ynicp\source\repos\ucPractice\x64\Debug\UnitTest1.dll

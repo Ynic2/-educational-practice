@@ -1,0 +1,4 @@
+C:\Users\ynicp\source\repos\ucPractice\ucPractice\x64\Debug\ucPractice.vcxproj.AssemblyReference.cache
+C:\Users\ynicp\source\repos\ucPractice\ucPractice\x64\Debug\ucPractice.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\ynicp\source\repos\ucPractice\ucPractice\x64\Debug\ucPractice.MyForm.resources
+C:\Users\ynicp\source\repos\ucPractice\ucPractice\x64\Debug\ucPractice.vcxproj.GenerateResource.cache
